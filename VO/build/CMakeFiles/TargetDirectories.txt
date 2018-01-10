@@ -1,3 +1,1 @@
-/home/yuanlin/SLAM-Porj/VO/build/CMakeFiles/edit_cache.dir
-/home/yuanlin/SLAM-Porj/VO/build/CMakeFiles/rebuild_cache.dir
 /home/yuanlin/SLAM-Porj/VO/build/CMakeFiles/pose2d2d.dir

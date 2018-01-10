@@ -37,7 +37,11 @@
                 "${workspaceRoot}",
                 "/usr/include/eigen3",
                 "/usr/include/pcl-1.8",
-                "/usr/include/vtk-5.10"
+                "/usr/include/vtk-5.10",
+                "/usr/include/boost/compatibility/cpp_c_headers",
+                "/usr/include/linux",
+                "/usr/include/c++/4.8",
+                "/usr/include/x86_64-linux-gnu/c++/4.8"
             ],
             "defines": [],
             "intelliSenseMode": "clang-x64",

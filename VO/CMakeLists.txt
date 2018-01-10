@@ -4,7 +4,7 @@ project(VO)
 
 set( CMAKE_BUILD_TYPE "Release" )
 set( CMAKE_CXX_FLAGS "-std=c++11 -O3" )
-set( OpenCV_DIR "/home/yuanlin/opencv-2.4.13.4/build")
+# set( OpenCV_DIR "/home/yuanlin/opencv-2.4.13.4/build")
 
 find_package( OpenCV REQUIRED )
 # find_package( OpenCV 3.4 REQUIRED )
